@@ -2,8 +2,7 @@
 
 ## Installation
 ```
-npm install
-yarn
+npm install or yarn
 npx pod-install ios
 ```
 
